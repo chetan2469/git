@@ -1,0 +1,54 @@
+{
+  "name": "mlkit",
+  "version": "0.15.0",
+  "summary": "A Flutter plugin to use the Firebase ML Kit.",
+  "description": "A new flutter plugin project.",
+  "homepage": "http://example.com",
+  "license": {
+    "file": "../LICENSE"
+  },
+  "authors": {
+    "Your Company": "email@example.com"
+  },
+  "source": {
+    "path": "."
+  },
+  "source_files": "Classes/**/*",
+  "public_header_files": "Classes/**/*.h",
+  "dependencies": {
+    "Flutter": [
+
+    ],
+    "Firebase/Core": [
+      "~> 6.11"
+    ],
+    "Firebase/MLVision": [
+      "~> 6.11"
+    ],
+    "Firebase/MLVisionTextModel": [
+      "~> 6.11"
+    ],
+    "Firebase/MLVisionBarcodeModel": [
+      "~> 6.11"
+    ],
+    "Firebase/MLVisionFaceModel": [
+      "~> 6.11"
+    ],
+    "Firebase/MLVisionLabelModel": [
+      "~> 6.11"
+    ],
+    "Firebase/MLModelInterpreter": [
+      "~> 6.11"
+    ],
+    "Firebase/MLNaturalLanguage": [
+      "~> 6.11"
+    ],
+    "Firebase/MLNLLanguageID": [
+      "~> 6.11"
+    ]
+  },
+  "static_framework": true,
+  "platforms": {
+    "ios": "9.0"
+  }
+}
