@@ -1,0 +1,66 @@
+{
+  "project_info": {
+    "project_number": "915649074065",
+    "firebase_url": "https://flutter-chedo.firebaseio.com",
+    "project_id": "flutter-chedo",
+    "storage_bucket": "flutter-chedo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915649074065:android:c3a72ab86764185c550030",
+        "android_client_info": {
+          "package_name": "com.chedo.chedo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "915649074065-f9crodp4rmi71vm2s51k51kg6d3mt5of.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chedo.chedo",
+            "certificate_hash": "996c8dc22bf584a248fafa1285782190be3f06b0"
+          }
+        },
+        {
+          "client_id": "915649074065-he3h6j0b471nokpempnruk74bpmn1oal.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.chedo.chedo",
+            "certificate_hash": "fae31db2948ac59370902c2fc191ecd633cae79f"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmHddNeHRQeTcJpJhD0CZ3LPv4XHOk1TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:915649074065:android:ea3042b12a20b525550030",
+        "android_client_info": {
+          "package_name": "com.chedo.rojnishi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmHddNeHRQeTcJpJhD0CZ3LPv4XHOk1TU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
